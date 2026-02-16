@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nishant Accounting Services</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f6f9;
+        }
+        header {
+            background-color: #1f3c88;
+            color: white;
+            text-align: center;
+            padding: 30px 10px;
+        }
+        section {
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .services {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            width: 250px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        .contact {
+            background: #1f3c88;
+            color: white;
+            padding: 30px;
+        }
+        .btn {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background: #ff9800;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Nishant Accounting Services</h1>
+    <p>Tally | GST Return Filing | Accounting | Bank Reconciliation</p>
+</header>
+
+<section>
+    <h2>Our Services</h2>
+    <div class="services">
+        <div class="card">
+            <h3>Tally Accounting</h3>
+            <p>Complete accounting solutions for small businesses.</p>
+        </div>
+        <div class="card">
+            <h3>GST Return Filing</h3>
+            <p>Monthly & Quarterly GST return filing at affordable cost.</p>
+        </div>
+        <div class="card">
+            <h3>Bank Reconciliation</h3>
+            <p>Accurate bank statement matching and reporting.</p>
+        </div>
+    </div>
+</section>
+
+<section class="contact">
+    <h2>Contact Me</h2>
+    <p>Phone: +91-8765010520</p>
+    <p>Email: nishantdixit462@gmail.com</p>
+    <a href="https://wa.me/91XXXXXXXXXX" class="btn">Chat on WhatsApp</a>
+</section>
+
+</body>
+</html>
