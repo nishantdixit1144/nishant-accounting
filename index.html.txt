@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+
+<title>Nishant Accounting Services | Tally & GST Accountant</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+
+body{
+margin:0;
+font-family:Arial, sans-serif;
+background:#f4f6f9;
+}
+
+/* HEADER */
+header{
+background:linear-gradient(to right,#0d47a1,#1976d2);
+color:white;
+text-align:center;
+padding:40px 20px;
+}
+
+header img{
+height:90px;
+margin-bottom:10px;
+}
+
+header h1{
+margin:10px 0;
+font-size:36px;
+}
+
+header p{
+font-size:18px;
+margin:6px 0;
+}
+
+/* SECTION */
+section{
+max-width:900px;
+margin:25px auto;
+background:white;
+padding:25px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+section h2{
+color:#0d47a1;
+margin-bottom:10px;
+}
+
+ul{
+line-height:1.8;
+}
+
+/* BUTTON */
+.btn{
+display:inline-block;
+padding:12px 25px;
+background:#25D366;
+color:white;
+text-decoration:none;
+border-radius:6px;
+font-weight:bold;
+margin-top:10px;
+}
+
+/* FOOTER */
+footer{
+background:#0d47a1;
+color:white;
+text-align:center;
+padding:15px;
+margin-top:40px;
+}
+
+.rating{
+color:#f39c12;
+font-size:20px;
+}
+
+</style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header>
+
+<img src="logo.png" alt="Nishant Accounting Logo">
+
+<h1>Nishant Accounting Services</h1>
+
+<p>Professional Tally & GST Accountant | Lucknow</p>
+
+<p>📞 Call / WhatsApp: <b>8765010520</b></p>
+
+</header>
+
+
+<!-- ABOUT -->
+<section>
+
+<h2>About Me</h2>
+
+<p>
+I am a professional Tally Accountant providing accurate and reliable
+accounting, GST, inventory and financial management services for businesses.
+</p>
+
+</section>
+
+
+<!-- SERVICES -->
+<section>
+
+<h2>Our Services</h2>
+
+<ul>
+<li>Daily Sale & Purchase Entry</li>
+<li>Inventory & Stock Management</li>
+<li>Bank Reconciliation</li>
+<li>GSTR-1 & GSTR-3B Filing & Reconciliation</li>
+<li>All Expenses Maintenance</li>
+<li>Complete Accounting in Tally</li>
+</ul>
+
+</section>
+
+
+<!-- RATING -->
+<section>
+
+<h2>Client Reviews</h2>
+
+<p class="rating">★★★★★ 5.0 Rating</p>
+
+<p>✔️ Very professional service</p>
+<p>✔️ Fast and reliable work</p>
+<p>✔️ Best accountant in Lucknow</p>
+
+</section>
+
+
+<!-- LOCATION -->
+<section>
+
+<h2>Our Location</h2>
+
+<p><b>Office:</b> Lucknow, Uttar Pradesh</p>
+
+<iframe
+src="https://maps.google.com/maps?q=Lucknow&t=&z=12&ie=UTF8&iwloc=&output=embed"
+width="100%"
+height="250"
+style="border:0;border-radius:10px;"
+loading="lazy">
+</iframe>
+
+</section>
+
+
+<!-- CONTACT -->
+<section>
+
+<h2>Contact Me</h2>
+
+<p><b>Name:</b> Nishant Dixit</p>
+<p><b>Phone:</b> 8765010520</p>
+<p><b>Location:</b> Lucknow</p>
+
+<a class="btn" href="https://wa.me/918765010520" target="_blank">
+WhatsApp Now
+</a>
+
+</section>
+
+
+<!-- FOOTER -->
+<footer>
+
+© 2026 Nishant Accounting Services | All Rights Reserved
+
+</footer>
+
+</body>
+</html>
